@@ -1,5 +1,8 @@
 /* تغيرات جزريه */
 
+body{
+  font-family: Arial, sans-serif;
+}
 :root {
 
  --spanish-gray: hsl(0, 0%, 60%); --sonic-silver: hsl(0, 0%, 47%); --eerie-black: hsl(0, 0%, 13%); --default-blue: hsl(184, 100%, 42%); --sandy-brown: hsl(29, 90%, 65%); --bittersweet: hsl(224, 100%, 70%); --ocean-green: hsl(152, 51%, 52%); --davys-gray: hsl(0, 0%, 33%); --cultured: hsl(0, 0%, 93%); --white: hsl(0, 100%, 100%);
