@@ -1,0 +1,78 @@
+    /* Main Section Start */
+    .contener {
+      
+        border-radius: 10px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+        padding: 30px;
+          display: flex;
+          flex-wrap: wrap;
+          align-items: center;
+          justify-content: center;
+          margin: 20px auto;
+          margin-top: 140px;
+          margin-bottom: 50px;
+          max-width: 80%;
+          gap: 20px;
+          transition: 0.8s ease;
+      }
+    
+  
+      .about-intro h1{
+        transition: 0.5s ease;
+      }
+      .about-intro h1:hover{
+        color: #ffffff;
+        
+        
+      }
+      
+      .about-content {
+          flex: 1 1 45%;
+          padding: 20px;
+         
+          border-radius: 10px;
+          box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+          text-align: center;
+      }
+      
+      
+      .about-banner {
+          flex: 1 1 45%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+      }
+      
+      .about-banner img {
+          max-width: 100%;
+          border-radius: 10px;
+          box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+      }
+      h1{
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+        border-radius: 10px;
+        
+        
+          display: flex;
+          flex-wrap: wrap;
+          align-items: center;
+          justify-content: center;
+          
+          margin-top: 140px;
+          margin-bottom: 50px;
+          max-width: 60%;
+          gap: 20px;
+          
+      }
+      
+      .video {
+          text-align: center;
+          margin: 40px auto;
+          max-width: 60%;
+      }
+      
+      .video video {
+          border-radius: 10px;
+          box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+      }
+    /*........
